@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ru-ru">
+	<title type="text">Ремонт материнских плат ПК - Гитарюга</title>
+	<subtitle type="text">ремонт материнских плат компьютера</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.gitaruga.ru"/>
+	<id>https://www.gitaruga.ru/</id>
+	<updated>2022-12-07T17:01:25+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://www.gitaruga.ru/?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Продажа восстановленных плат</title>
+		<link rel="alternate" type="text/html" href="https://www.gitaruga.ru/uslugi/prodazha-vosstanovlennykh-plat"/>
+		<published>2019-02-07T16:32:25+00:00</published>
+		<updated>2019-02-07T16:32:25+00:00</updated>
+		<id>https://www.gitaruga.ru/uslugi/prodazha-vosstanovlennykh-plat</id>
+		<author>
+			<name>Гитарюга</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;Продажа восстановленных плат&lt;/h1&gt;
+&lt;p&gt;Мы стремимся к тому, чтобы повысить процент удачно отремонтированных комплектующих, приближая этот показатель к 100 процентам. Но не всегда все так хорошо, как хотелось бы и нам, и вам. Бывают платы, серьезный ремонт которых не имеет целесообразности. Например платы офисного уровня на чипсетах H61, H81 и подобные. Бывает множественная неисправность (повреждено несколько компонентов на плате), и ремонт становится неоправданно сложными, и соответственно - дорогим Бывает, когда проделав большую работу по диагностике, выявлению причины поломки, ремонтным действиям - проблема так и не локализуется, и мастер принимает решение об остановке процесса ремонта. Всего этого не избежать.&lt;/p&gt;
+&lt;p&gt;Но на подобные, крайние случаи мы иногда делаем клиентам интересные предложения, которые помогают решить проблемы, связанные с выходом из строя его материнской платы, и невозможностью ее ремонта по той или иной причине. Мы можем предложить варианты продажи материнских плат под задачи клиента, из восстановленных ранее. То есть плат, которые были в нашей мастерской отремонтированы, протестированы, и всегда имеются в наличии в неком ассортименте, который постоянно естественно меняется. Таким образом, даже если ремонт и не состоится, но вам нужна плата, и новой такой уже не найти - можно попытать счастье и запросить нужное у нас.&lt;/p&gt;
+&lt;p&gt;Естественно - с гарантией, не меньшей чем на ремонт. С проверкой если это необходимо. И с постоянной поддержкой если что.&lt;/p&gt;
+&lt;p&gt;Увидеть актуальные предложения от СЦ &quot;Гитарюга&quot; можно в нашем &lt;strong&gt;&lt;a title=&quot;Авито СЦ &amp;quot;Гитарюга&amp;quot;&quot; href=&quot;https://www.avito.ru/user/c90d4cf1bd9931da768475a7a58ff4ea/profile?id=1050268043&amp;amp;src=item&quot; target=&quot;_blank&quot;&gt;профиле на ресурсе Авито&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Наша аппаратура для ремонта и диагностики&lt;/h2&gt;
+&lt;p&gt;{gallery}apparat{/gallery}&lt;/p&gt;
+&lt;h2&gt;Есть вопросы?&lt;/h2&gt;
+&lt;p&gt;{loadmodule mod_qf3,mod_qf3}&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h1&gt;Продажа восстановленных плат&lt;/h1&gt;
+&lt;p&gt;Мы стремимся к тому, чтобы повысить процент удачно отремонтированных комплектующих, приближая этот показатель к 100 процентам. Но не всегда все так хорошо, как хотелось бы и нам, и вам. Бывают платы, серьезный ремонт которых не имеет целесообразности. Например платы офисного уровня на чипсетах H61, H81 и подобные. Бывает множественная неисправность (повреждено несколько компонентов на плате), и ремонт становится неоправданно сложными, и соответственно - дорогим Бывает, когда проделав большую работу по диагностике, выявлению причины поломки, ремонтным действиям - проблема так и не локализуется, и мастер принимает решение об остановке процесса ремонта. Всего этого не избежать.&lt;/p&gt;
+&lt;p&gt;Но на подобные, крайние случаи мы иногда делаем клиентам интересные предложения, которые помогают решить проблемы, связанные с выходом из строя его материнской платы, и невозможностью ее ремонта по той или иной причине. Мы можем предложить варианты продажи материнских плат под задачи клиента, из восстановленных ранее. То есть плат, которые были в нашей мастерской отремонтированы, протестированы, и всегда имеются в наличии в неком ассортименте, который постоянно естественно меняется. Таким образом, даже если ремонт и не состоится, но вам нужна плата, и новой такой уже не найти - можно попытать счастье и запросить нужное у нас.&lt;/p&gt;
+&lt;p&gt;Естественно - с гарантией, не меньшей чем на ремонт. С проверкой если это необходимо. И с постоянной поддержкой если что.&lt;/p&gt;
+&lt;p&gt;Увидеть актуальные предложения от СЦ &quot;Гитарюга&quot; можно в нашем &lt;strong&gt;&lt;a title=&quot;Авито СЦ &amp;quot;Гитарюга&amp;quot;&quot; href=&quot;https://www.avito.ru/user/c90d4cf1bd9931da768475a7a58ff4ea/profile?id=1050268043&amp;amp;src=item&quot; target=&quot;_blank&quot;&gt;профиле на ресурсе Авито&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Наша аппаратура для ремонта и диагностики&lt;/h2&gt;
+&lt;p&gt;{gallery}apparat{/gallery}&lt;/p&gt;
+&lt;h2&gt;Есть вопросы?&lt;/h2&gt;
+&lt;p&gt;{loadmodule mod_qf3,mod_qf3}&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Избранные" />
+		<category term="Услуги" />
+	</entry>
+	<entry>
+		<title>Замена BGA-чипа (моста)</title>
+		<link rel="alternate" type="text/html" href="https://www.gitaruga.ru/uslugi/zamena-bga-chipa-mosta"/>
+		<published>2019-02-07T16:23:25+00:00</published>
+		<updated>2019-02-07T16:23:25+00:00</updated>
+		<id>https://www.gitaruga.ru/uslugi/zamena-bga-chipa-mosta</id>
+		<author>
+			<name>Гитарюга</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2&gt;Ориентировочные цены на некоторые услуги замены моста (работа + чип)&lt;/h2&gt;
+&lt;div class=&quot;bs-docs-example&quot;&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+&lt;thead&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;th class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;Наименование&lt;/th&gt;
+&lt;th class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;Цены / ₽&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста Z170, Z270*&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;6 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста майнерская H110, B250&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;7 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста майнерская H81&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;6 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста X79&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;6 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста Z77, Z68, P67&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;4 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15.7969px;&quot;&gt;
+&lt;td style=&quot;height: 15.7969px;&quot;&gt;Замена моста X99&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15.7969px;&quot;&gt;8 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста Z490, Z590&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;8 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста Z370*&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;6 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста Z87, Z97 &lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;5 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста X299&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;8 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;* если будет возможно найти заведомо исправные запчасти (чипы)&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;{loadmodule mod_custom,Заказать кнопка}&lt;/p&gt;
+&lt;h1&gt;Замена BGA-чипа (моста)&lt;/h1&gt;
+&lt;div class=&quot;zoom-float&quot;&gt;&lt;img class=&quot;zoom&quot; src=&quot;https://www.gitaruga.ru/images/uxfolder.png&quot; alt=&quot;Замена BGA чипа&quot; width=&quot;250&quot; height=&quot;250&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;Мост (чипсет) на материнской плате является самой дорогой микросхемой, и если он поврежден, то подлежит только замене. Замена моста соответственно - довольно дорого стоит, и не все материнские платы достойны этой процедуры. Как правило - замена моста всегда согласовывается с клиентом, и требует взвешенного решения.&lt;/p&gt;
+&lt;p&gt;Причин выхода чипсета из строя довольно много. Основные из них, как правило:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Попадание грозового разряда в домашнюю сеть&lt;/li&gt;
+&lt;li&gt;Использование неисправной периферии (USB, SATA устройства например)&lt;/li&gt;
+&lt;li&gt;Неисправный блок питания, пробой по какой-либо линии питания&lt;/li&gt;
+&lt;li&gt;Некачественное охлаждение чипсета, некачественная замена термопасты&lt;/li&gt;
+&lt;li&gt;Физические повреждения кристалла чипа, сколы на углах кристалла&lt;/li&gt;
+&lt;li&gt;Собственная деградация чипа (от времени например или чрезмерной нагрузки)&lt;/li&gt;
+&lt;li&gt;Отвал чипа от материнской платы (отсутствие некоторых контактов)&lt;/li&gt;
+&lt;li&gt;Залитые жидкостью области чипа или его обвязки и многое другое.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Диагностика моста&lt;/h2&gt;
+&lt;p&gt;Вынести приговор в неисправности чипсета (моста) на материнской плате - не очень простая диагностическая процедура. Очень редко бывает, что неисправность моста явно выражена. Как правило, приходится разбираться с прохождениями сигналов в логике работы платы, делать диагностические замены других узлов на плате, для локализации проблемы, от меньшего к большему, оценивать другие первичные и вторичные признаки поломки чипа. Хотя бывает и довольно просто это определить, например по сильному нагреву чипсета при наличии только дежурного питания от БП, или когда имеется вполне однозначная причина выхода материнской платы из строя, указанная клиентом, которая с большей долей вероятности указывает именно на чипсет.&lt;/p&gt;
+&lt;h2&gt;Как производится замена&lt;/h2&gt;
+&lt;p&gt;Замена чипа не очень сложная процедура, но ответственная, как и любая BGA-пайка. Осуществляется на инфракрасном паяльном оборудовании (Термопро ИК-650) с соблюдением термопрофилей пайки, и с использованием качественных европейских флюсов. Чипы имеются в мастерской в наличии, но в небольших количествах, и может такое случиться, что чип под конкретный ремонт будет заказываться с Китая прям непосредственно после диагностики. По этому возможно ожидание поступления чипа от поставщика в пределах месяца. После пайки проверяется работоспособность всей периферии, завязанной электронно на функции чипсета, и после необходимого тестирования - выдается клиенту, с гарантией.&lt;/p&gt;
+&lt;h2&gt;Наша аппаратура для ремонта и диагностики&lt;/h2&gt;
+&lt;p&gt;{gallery}apparat{/gallery}&lt;/p&gt;
+&lt;h2&gt;Есть вопросы?&lt;/h2&gt;
+&lt;p&gt;{loadmodule mod_qf3,mod_qf3}&lt;/p&gt;
+&lt;div id=&quot;gtx-trans&quot; style=&quot;position: absolute; left: 215px; top: 124.406px;&quot;&gt; &lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2&gt;Ориентировочные цены на некоторые услуги замены моста (работа + чип)&lt;/h2&gt;
+&lt;div class=&quot;bs-docs-example&quot;&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+&lt;thead&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;th class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;Наименование&lt;/th&gt;
+&lt;th class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;Цены / ₽&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста Z170, Z270*&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;6 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста майнерская H110, B250&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;7 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста майнерская H81&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;6 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста X79&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;6 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста Z77, Z68, P67&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;4 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15.7969px;&quot;&gt;
+&lt;td style=&quot;height: 15.7969px;&quot;&gt;Замена моста X99&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15.7969px;&quot;&gt;8 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста Z490, Z590&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;8 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста Z370*&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;6 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста Z87, Z97 &lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;5 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 15px;&quot;&gt;
+&lt;td style=&quot;height: 15px;&quot;&gt;Замена моста X299&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 15px;&quot;&gt;8 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;* если будет возможно найти заведомо исправные запчасти (чипы)&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;{loadmodule mod_custom,Заказать кнопка}&lt;/p&gt;
+&lt;h1&gt;Замена BGA-чипа (моста)&lt;/h1&gt;
+&lt;div class=&quot;zoom-float&quot;&gt;&lt;img class=&quot;zoom&quot; src=&quot;https://www.gitaruga.ru/images/uxfolder.png&quot; alt=&quot;Замена BGA чипа&quot; width=&quot;250&quot; height=&quot;250&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;Мост (чипсет) на материнской плате является самой дорогой микросхемой, и если он поврежден, то подлежит только замене. Замена моста соответственно - довольно дорого стоит, и не все материнские платы достойны этой процедуры. Как правило - замена моста всегда согласовывается с клиентом, и требует взвешенного решения.&lt;/p&gt;
+&lt;p&gt;Причин выхода чипсета из строя довольно много. Основные из них, как правило:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Попадание грозового разряда в домашнюю сеть&lt;/li&gt;
+&lt;li&gt;Использование неисправной периферии (USB, SATA устройства например)&lt;/li&gt;
+&lt;li&gt;Неисправный блок питания, пробой по какой-либо линии питания&lt;/li&gt;
+&lt;li&gt;Некачественное охлаждение чипсета, некачественная замена термопасты&lt;/li&gt;
+&lt;li&gt;Физические повреждения кристалла чипа, сколы на углах кристалла&lt;/li&gt;
+&lt;li&gt;Собственная деградация чипа (от времени например или чрезмерной нагрузки)&lt;/li&gt;
+&lt;li&gt;Отвал чипа от материнской платы (отсутствие некоторых контактов)&lt;/li&gt;
+&lt;li&gt;Залитые жидкостью области чипа или его обвязки и многое другое.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Диагностика моста&lt;/h2&gt;
+&lt;p&gt;Вынести приговор в неисправности чипсета (моста) на материнской плате - не очень простая диагностическая процедура. Очень редко бывает, что неисправность моста явно выражена. Как правило, приходится разбираться с прохождениями сигналов в логике работы платы, делать диагностические замены других узлов на плате, для локализации проблемы, от меньшего к большему, оценивать другие первичные и вторичные признаки поломки чипа. Хотя бывает и довольно просто это определить, например по сильному нагреву чипсета при наличии только дежурного питания от БП, или когда имеется вполне однозначная причина выхода материнской платы из строя, указанная клиентом, которая с большей долей вероятности указывает именно на чипсет.&lt;/p&gt;
+&lt;h2&gt;Как производится замена&lt;/h2&gt;
+&lt;p&gt;Замена чипа не очень сложная процедура, но ответственная, как и любая BGA-пайка. Осуществляется на инфракрасном паяльном оборудовании (Термопро ИК-650) с соблюдением термопрофилей пайки, и с использованием качественных европейских флюсов. Чипы имеются в мастерской в наличии, но в небольших количествах, и может такое случиться, что чип под конкретный ремонт будет заказываться с Китая прям непосредственно после диагностики. По этому возможно ожидание поступления чипа от поставщика в пределах месяца. После пайки проверяется работоспособность всей периферии, завязанной электронно на функции чипсета, и после необходимого тестирования - выдается клиенту, с гарантией.&lt;/p&gt;
+&lt;h2&gt;Наша аппаратура для ремонта и диагностики&lt;/h2&gt;
+&lt;p&gt;{gallery}apparat{/gallery}&lt;/p&gt;
+&lt;h2&gt;Есть вопросы?&lt;/h2&gt;
+&lt;p&gt;{loadmodule mod_qf3,mod_qf3}&lt;/p&gt;
+&lt;div id=&quot;gtx-trans&quot; style=&quot;position: absolute; left: 215px; top: 124.406px;&quot;&gt; &lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Избранные" />
+		<category term="Услуги" />
+	</entry>
+	<entry>
+		<title>Ремонт сокета</title>
+		<link rel="alternate" type="text/html" href="https://www.gitaruga.ru/uslugi/remont-soketa"/>
+		<published>2019-02-07T16:08:25+00:00</published>
+		<updated>2019-02-07T16:08:25+00:00</updated>
+		<id>https://www.gitaruga.ru/uslugi/remont-soketa</id>
+		<author>
+			<name>Гитарюга</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2&gt;Ориентировочные цены на услуги ремонта&lt;/h2&gt;
+&lt;div class=&quot;bs-docs-example&quot;&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+&lt;thead&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;th class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;Наименование&lt;/th&gt;
+&lt;th class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;Цены / ₽&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA1155,  1150)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;2 500 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14.425px;&quot;&gt;
+&lt;td style=&quot;height: 14.425px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA1151, 1151v2)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14.425px;&quot;&gt;2 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA1366)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;2 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA2011)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;3 000 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA2011-3)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;3 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA1200)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;2 800 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA1700)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;3 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA2066)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;4 000 - 4 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт контактов сокета, крышки AMD Ryzen&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;2 500 - 3 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт контактов процессора AMD Ryzen&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;2 500 - 6 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;{loadmodule mod_custom,Заказать кнопка}&lt;/p&gt;
+&lt;h1&gt;Ремонт сокета&lt;/h1&gt;
+&lt;div class=&quot;zoom-float&quot;&gt;&lt;img class=&quot;zoom&quot; src=&quot;https://www.gitaruga.ru/images/phones.png&quot; alt=&quot;Ремонт сокета&quot; width=&quot;250&quot; height=&quot;250&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;Если вы случайно &lt;strong&gt;повредили сокет&lt;/strong&gt; материнской платы при чистке или перестановке процессора, отломали или погнули контакты сокета, если вам подсунули плату с поврежденным сокетом продавцы и отказываются брать ее обратно по гарантии, если при попытке снятия охлаждение с процессора AMD процессор выдернулся из сокета вместе с охлаждением - это все поправимо!&lt;/p&gt;
+&lt;p&gt;Наша мастерская предоставляет услугу по &lt;strong&gt;ремонту сокетов&lt;/strong&gt; следующих моделей:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Intel: LGA1156, LGA1155, LGA1150, LGA1151, LGA1151v2, LGA1366, LGA2011, LGA2011v3, LGA2066&lt;/li&gt;
+&lt;li&gt;AMD: Socket AM3, Socket AM4 (RYZEN), Socket TR4 (Threadripper).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Конечно, ремонт сокета не всегда возможен без его замены целиком, так как имеет место оценка целесообразности работы исходя из степени повреждения. Но если повреждено не очень много ножек в сокете (к примеру около 10-20 штук), и конечно же если поломана или загнута одна-две ножки, то мастер при осмотре сокета под микроскопом принимает решение о его ремонте без полной замены.&lt;/p&gt;
+&lt;h2&gt;Что это значит?&lt;/h2&gt;
+&lt;p&gt;Это значит то, что поврежденные, отломанные, &lt;strong&gt;погнутые ножки сокета&lt;/strong&gt; могут быть либо отреставрированы до первоначального состояния, либо заменены эти контакты на новые. И все это - локально, не перепаивая весь сокет. В результате - сокет практически не отличим от нового, без следов ремонта (их трудно заметить не опытным взглядом), и с той же функциональностью, что и при полной замене сокета, да и вообще - с функциональностью нового сокета.&lt;/p&gt;
+&lt;p&gt;Так как по-большому счету, если проще сказать - сокет это переходник между процессором и материнской платой, и является не чем иным как просто набором &quot;проволочек&quot;, и кроме как обеспечение контакта - более не несет в себе никакой другой смысловой нагрузки. Но увы, эти контакты должны стоять ровно так, как это спроектировано инженерами, и никак иначе. Для этого и существует прекрасная возможность - &lt;strong&gt;отремонтировать сокет&lt;/strong&gt; у нас при их случайном повреждении. С Гарантией! Профессионально! Качественно! И без замены сокета целиком, что существенно снижает стоимость ремонта.&lt;/p&gt;
+&lt;h2&gt;В наличии различные сокеты под замену&lt;/h2&gt;
+&lt;p&gt;{gallery}socket{/gallery}&lt;/p&gt;
+&lt;h2&gt;Наша аппаратура для ремонта и диагностики&lt;/h2&gt;
+&lt;p&gt;{gallery}apparat{/gallery}&lt;/p&gt;
+&lt;h2&gt;Есть вопросы?&lt;/h2&gt;
+&lt;p&gt;{loadmodule mod_qf3,mod_qf3}&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2&gt;Ориентировочные цены на услуги ремонта&lt;/h2&gt;
+&lt;div class=&quot;bs-docs-example&quot;&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+&lt;thead&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;th class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;Наименование&lt;/th&gt;
+&lt;th class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;Цены / ₽&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA1155,  1150)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;2 500 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14.425px;&quot;&gt;
+&lt;td style=&quot;height: 14.425px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA1151, 1151v2)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14.425px;&quot;&gt;2 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA1366)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;2 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA2011)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;3 000 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA2011-3)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;3 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA1200)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;2 800 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA1700)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;3 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт сокета (замена поломанных или загнутых контактов)(LGA2066)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;4 000 - 4 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт контактов сокета, крышки AMD Ryzen&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;2 500 - 3 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14px;&quot;&gt;
+&lt;td style=&quot;height: 14px;&quot;&gt;Ремонт контактов процессора AMD Ryzen&lt;/td&gt;
+&lt;td class=&quot;td-center&quot; style=&quot;height: 14px;&quot;&gt;2 500 - 6 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;{loadmodule mod_custom,Заказать кнопка}&lt;/p&gt;
+&lt;h1&gt;Ремонт сокета&lt;/h1&gt;
+&lt;div class=&quot;zoom-float&quot;&gt;&lt;img class=&quot;zoom&quot; src=&quot;https://www.gitaruga.ru/images/phones.png&quot; alt=&quot;Ремонт сокета&quot; width=&quot;250&quot; height=&quot;250&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;Если вы случайно &lt;strong&gt;повредили сокет&lt;/strong&gt; материнской платы при чистке или перестановке процессора, отломали или погнули контакты сокета, если вам подсунули плату с поврежденным сокетом продавцы и отказываются брать ее обратно по гарантии, если при попытке снятия охлаждение с процессора AMD процессор выдернулся из сокета вместе с охлаждением - это все поправимо!&lt;/p&gt;
+&lt;p&gt;Наша мастерская предоставляет услугу по &lt;strong&gt;ремонту сокетов&lt;/strong&gt; следующих моделей:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Intel: LGA1156, LGA1155, LGA1150, LGA1151, LGA1151v2, LGA1366, LGA2011, LGA2011v3, LGA2066&lt;/li&gt;
+&lt;li&gt;AMD: Socket AM3, Socket AM4 (RYZEN), Socket TR4 (Threadripper).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Конечно, ремонт сокета не всегда возможен без его замены целиком, так как имеет место оценка целесообразности работы исходя из степени повреждения. Но если повреждено не очень много ножек в сокете (к примеру около 10-20 штук), и конечно же если поломана или загнута одна-две ножки, то мастер при осмотре сокета под микроскопом принимает решение о его ремонте без полной замены.&lt;/p&gt;
+&lt;h2&gt;Что это значит?&lt;/h2&gt;
+&lt;p&gt;Это значит то, что поврежденные, отломанные, &lt;strong&gt;погнутые ножки сокета&lt;/strong&gt; могут быть либо отреставрированы до первоначального состояния, либо заменены эти контакты на новые. И все это - локально, не перепаивая весь сокет. В результате - сокет практически не отличим от нового, без следов ремонта (их трудно заметить не опытным взглядом), и с той же функциональностью, что и при полной замене сокета, да и вообще - с функциональностью нового сокета.&lt;/p&gt;
+&lt;p&gt;Так как по-большому счету, если проще сказать - сокет это переходник между процессором и материнской платой, и является не чем иным как просто набором &quot;проволочек&quot;, и кроме как обеспечение контакта - более не несет в себе никакой другой смысловой нагрузки. Но увы, эти контакты должны стоять ровно так, как это спроектировано инженерами, и никак иначе. Для этого и существует прекрасная возможность - &lt;strong&gt;отремонтировать сокет&lt;/strong&gt; у нас при их случайном повреждении. С Гарантией! Профессионально! Качественно! И без замены сокета целиком, что существенно снижает стоимость ремонта.&lt;/p&gt;
+&lt;h2&gt;В наличии различные сокеты под замену&lt;/h2&gt;
+&lt;p&gt;{gallery}socket{/gallery}&lt;/p&gt;
+&lt;h2&gt;Наша аппаратура для ремонта и диагностики&lt;/h2&gt;
+&lt;p&gt;{gallery}apparat{/gallery}&lt;/p&gt;
+&lt;h2&gt;Есть вопросы?&lt;/h2&gt;
+&lt;p&gt;{loadmodule mod_qf3,mod_qf3}&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Избранные" />
+		<category term="Услуги" />
+	</entry>
+	<entry>
+		<title>Ремонт материнских плат</title>
+		<link rel="alternate" type="text/html" href="https://www.gitaruga.ru/uslugi/remont-materinskikh-plat"/>
+		<published>2019-02-07T15:46:28+00:00</published>
+		<updated>2019-02-07T15:46:28+00:00</updated>
+		<id>https://www.gitaruga.ru/uslugi/remont-materinskikh-plat</id>
+		<author>
+			<name>Гитарюга</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2&gt;Ориентировочные цены на услуги ремонта&lt;/h2&gt;
+&lt;div class=&quot;bs-docs-example&quot;&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th class=&quot;td-center&quot;&gt;Наименование&lt;/th&gt;
+&lt;th class=&quot;td-center&quot;&gt;Цены / ₽&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Ремонт цепей питания материнской платы&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;от 2 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Замена BGA-чипа (без стоимости чипа)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;от 2 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Реболлинг чипа (снятие, реболл, установка при использовании донорских запчастей)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;от 2 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Замена слота (DDR, PCIe, PCI)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;от 2 300&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Замена разъема (sata, audio, usb и т.д) (разъем донорский)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;600-800&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Восстановление перебитых дорожек на текстолите&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;2 000-3 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Прошивка биос на программаторе&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;от 1 800&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Замена микросхем (кодеки, шимконтроллеры и т.п) (Стоимость запчасти не учитывается)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;от 2 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Пропайка и восстановление мат.платы после залития&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;2 500-4 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Устранение «косяков» предыдущих мастеров&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;до +100%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+{loadmodule mod_custom,Заказать кнопка}
+
+
+
+
+&lt;h1&gt;Ремонт материнских плат&lt;/h1&gt;
+
+&lt;div class=&quot;zoom-float&quot;&gt;&lt;img class=&quot;zoom&quot; src=&quot;https://www.gitaruga.ru//images/macs.png&quot; width=&quot;250&quot; height=&quot;250&quot; alt=&quot;Материнская плата&quot; style=&quot;&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;После процедуры диагностики, когда проблема локализована, или когда есть вполне определенная заявленная неисправность от самого клиента, мы переходим непосредственно к ремонту.&lt;/p&gt;
+
+&lt;p&gt;Что можно сделать у нас по материнским платам:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Починить или поменять сокет на материнской плате&lt;/li&gt;
+&lt;li&gt;Выявить и устранить «отвал» сокета или чипа&lt;/li&gt;
+&lt;li&gt;Выровнять погнутые или восстановить отломанные ножки на процессорах AMD&lt;/li&gt;
+&lt;li&gt;Перепрошить BIOS материнской платы на программаторе&lt;/li&gt;
+&lt;li&gt;Отремонтировать цепи питания материнской платы. Восстановить сгоревшие элементы или выявить причины отсутствия работоспособности того или иного участка электронной цепи. Восстановить сбитые элементы&lt;/li&gt;
+&lt;li&gt;Восстановить поврежденные дорожки при наличии царапин или механических повреждений&lt;/li&gt;
+&lt;li&gt;Заменить сгоревшие или сломанные слоты DDR, PCIe&lt;/li&gt;
+&lt;li&gt;Заменить поврежденные разъемы USB, SATA, AUDIO и др. на материнской плате&lt;/li&gt;
+&lt;li&gt;Заменить микросхемы периферии (звук, сеть) и другие микросхемы материнской платы, если они вышли из строя&lt;/li&gt;
+&lt;li&gt;Заменить чипсет, мост (BGA микросхему)&lt;/li&gt;
+&lt;li&gt;Поменять или перепрошить специализированные микросхемы IROG, TPU&lt;/li&gt;
+&lt;li&gt;Сделать профилактику системы охлаждения материнской платы (замена термопасты, терморезинок)&lt;/li&gt;
+и решить многие другие проблемы, связанные с работой материнских плат стационарных компьютеров.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;
+  Чем производится ремонт
+&lt;/h2&gt;
+&lt;p&gt;Для осуществления вышеперечисленных работ используется паяльное, термовоздушное и ИК оборудование фирм и моделей, имеющее признание многих мастеров по ремонту компьютерной техники по стране.
+Набор имеющегося оборудования более чем достаточен для выполнения всех видов работ по материнским платам.
+Паяльники и термофен имеют жесткий контроль установленных температур пайки, и при надлежащем использовании никогда не навредят ремонтируемой технике. И подобраны таким образом, чтобы работать можно было быстро и комфортно.&lt;/p&gt;
+
+&lt;p&gt;Инфракрасная паяльная станция торговой марки &quot;Термопро ИК-650&quot; - это верх российского инструменто-строения, мечта любого ремонтника. И в нашем случае даже эта станция была доработана специально под ремонт десктопных материнских плат.
+Для пайки чипов используется качественный европейский флюс ERSA&lt;/p&gt;
+
+&lt;p&gt;Практически для любых видов работ имеются все виды запчастей. Что-то закупается на склад, что-то имеется на многочисленных донорах. По этому в основном простые ремонты, связанные с восстановлением работоспособности цепей питания, сбитых элементов, заменой разъёмов - все происходит в рабочем порядке, без каких-то ожиданий запчастей. За много лет практики база комплектующих собрана довольно обширная, под все возможные виды материнских плат.&lt;/p&gt;
+
+&lt;h2&gt;
+  Чистка платы
+&lt;/h2&gt;
+&lt;p&gt;После окончания всех работ с материнской платой, удаляются чистящими растворами все следы пайки, материнская плата приводится в пригодное для дальнейшей работы состояние, при необходимости меняется термопаста и терморезинки под радиаторами.&lt;/p&gt;
+
+&lt;p&gt;Каждая плата, после выхода из мастерской, имеет гарантийную наклейку с указанным номером заказа, зарегистрированного в системе учета, для дальнейшей поддержки в течение гарантийного срока.&lt;/p&gt;
+
+&lt;h2&gt;Наша аппаратура для ремонта и диагностики&lt;/h2&gt;
+{gallery}apparat{/gallery}
+
+&lt;h2&gt;Есть вопросы?&lt;/h2&gt;
+{loadmodule mod_qf3,mod_qf3}&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2&gt;Ориентировочные цены на услуги ремонта&lt;/h2&gt;
+&lt;div class=&quot;bs-docs-example&quot;&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th class=&quot;td-center&quot;&gt;Наименование&lt;/th&gt;
+&lt;th class=&quot;td-center&quot;&gt;Цены / ₽&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Ремонт цепей питания материнской платы&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;от 2 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Замена BGA-чипа (без стоимости чипа)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;от 2 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Реболлинг чипа (снятие, реболл, установка при использовании донорских запчастей)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;от 2 500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Замена слота (DDR, PCIe, PCI)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;от 2 300&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Замена разъема (sata, audio, usb и т.д) (разъем донорский)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;600-800&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Восстановление перебитых дорожек на текстолите&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;2 000-3 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Прошивка биос на программаторе&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;от 1 800&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Замена микросхем (кодеки, шимконтроллеры и т.п) (Стоимость запчасти не учитывается)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;от 2 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Пропайка и восстановление мат.платы после залития&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;2 500-4 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Устранение «косяков» предыдущих мастеров&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;до +100%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+{loadmodule mod_custom,Заказать кнопка}
+
+
+
+
+&lt;h1&gt;Ремонт материнских плат&lt;/h1&gt;
+
+&lt;div class=&quot;zoom-float&quot;&gt;&lt;img class=&quot;zoom&quot; src=&quot;https://www.gitaruga.ru//images/macs.png&quot; width=&quot;250&quot; height=&quot;250&quot; alt=&quot;Материнская плата&quot; style=&quot;&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;После процедуры диагностики, когда проблема локализована, или когда есть вполне определенная заявленная неисправность от самого клиента, мы переходим непосредственно к ремонту.&lt;/p&gt;
+
+&lt;p&gt;Что можно сделать у нас по материнским платам:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Починить или поменять сокет на материнской плате&lt;/li&gt;
+&lt;li&gt;Выявить и устранить «отвал» сокета или чипа&lt;/li&gt;
+&lt;li&gt;Выровнять погнутые или восстановить отломанные ножки на процессорах AMD&lt;/li&gt;
+&lt;li&gt;Перепрошить BIOS материнской платы на программаторе&lt;/li&gt;
+&lt;li&gt;Отремонтировать цепи питания материнской платы. Восстановить сгоревшие элементы или выявить причины отсутствия работоспособности того или иного участка электронной цепи. Восстановить сбитые элементы&lt;/li&gt;
+&lt;li&gt;Восстановить поврежденные дорожки при наличии царапин или механических повреждений&lt;/li&gt;
+&lt;li&gt;Заменить сгоревшие или сломанные слоты DDR, PCIe&lt;/li&gt;
+&lt;li&gt;Заменить поврежденные разъемы USB, SATA, AUDIO и др. на материнской плате&lt;/li&gt;
+&lt;li&gt;Заменить микросхемы периферии (звук, сеть) и другие микросхемы материнской платы, если они вышли из строя&lt;/li&gt;
+&lt;li&gt;Заменить чипсет, мост (BGA микросхему)&lt;/li&gt;
+&lt;li&gt;Поменять или перепрошить специализированные микросхемы IROG, TPU&lt;/li&gt;
+&lt;li&gt;Сделать профилактику системы охлаждения материнской платы (замена термопасты, терморезинок)&lt;/li&gt;
+и решить многие другие проблемы, связанные с работой материнских плат стационарных компьютеров.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;
+  Чем производится ремонт
+&lt;/h2&gt;
+&lt;p&gt;Для осуществления вышеперечисленных работ используется паяльное, термовоздушное и ИК оборудование фирм и моделей, имеющее признание многих мастеров по ремонту компьютерной техники по стране.
+Набор имеющегося оборудования более чем достаточен для выполнения всех видов работ по материнским платам.
+Паяльники и термофен имеют жесткий контроль установленных температур пайки, и при надлежащем использовании никогда не навредят ремонтируемой технике. И подобраны таким образом, чтобы работать можно было быстро и комфортно.&lt;/p&gt;
+
+&lt;p&gt;Инфракрасная паяльная станция торговой марки &quot;Термопро ИК-650&quot; - это верх российского инструменто-строения, мечта любого ремонтника. И в нашем случае даже эта станция была доработана специально под ремонт десктопных материнских плат.
+Для пайки чипов используется качественный европейский флюс ERSA&lt;/p&gt;
+
+&lt;p&gt;Практически для любых видов работ имеются все виды запчастей. Что-то закупается на склад, что-то имеется на многочисленных донорах. По этому в основном простые ремонты, связанные с восстановлением работоспособности цепей питания, сбитых элементов, заменой разъёмов - все происходит в рабочем порядке, без каких-то ожиданий запчастей. За много лет практики база комплектующих собрана довольно обширная, под все возможные виды материнских плат.&lt;/p&gt;
+
+&lt;h2&gt;
+  Чистка платы
+&lt;/h2&gt;
+&lt;p&gt;После окончания всех работ с материнской платой, удаляются чистящими растворами все следы пайки, материнская плата приводится в пригодное для дальнейшей работы состояние, при необходимости меняется термопаста и терморезинки под радиаторами.&lt;/p&gt;
+
+&lt;p&gt;Каждая плата, после выхода из мастерской, имеет гарантийную наклейку с указанным номером заказа, зарегистрированного в системе учета, для дальнейшей поддержки в течение гарантийного срока.&lt;/p&gt;
+
+&lt;h2&gt;Наша аппаратура для ремонта и диагностики&lt;/h2&gt;
+{gallery}apparat{/gallery}
+
+&lt;h2&gt;Есть вопросы?&lt;/h2&gt;
+{loadmodule mod_qf3,mod_qf3}&lt;/div&gt;</content>
+		<category term="Избранные" />
+		<category term="Услуги" />
+	</entry>
+	<entry>
+		<title>Диагностика материнских плат</title>
+		<link rel="alternate" type="text/html" href="https://www.gitaruga.ru/uslugi/diagnostika-materinskikh-plat"/>
+		<published>2019-02-07T15:34:25+00:00</published>
+		<updated>2019-02-07T15:34:25+00:00</updated>
+		<id>https://www.gitaruga.ru/uslugi/diagnostika-materinskikh-plat</id>
+		<author>
+			<name>Гитарюга</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2&gt;Ориентировочные цены на услуги ремонта&lt;/h2&gt;
+&lt;div class=&quot;bs-docs-example&quot;&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th class=&quot;td-center&quot;&gt;Наименование&lt;/th&gt;
+&lt;th class=&quot;td-center&quot;&gt;Цены / ₽&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Диагностика (если больше ничего не делаем или ремонт бессмысленный)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;1 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Диагностика (если ремонтируем):&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;{loadmodule mod_custom,Заказать кнопка}&lt;/p&gt;
+&lt;h1&gt;Диагностика материнских плат&lt;/h1&gt;
+&lt;div class=&quot;zoom-float&quot;&gt;&lt;img class=&quot;zoom&quot; src=&quot;https://www.gitaruga.ru/images/macs.png&quot; alt=&quot;Материнская плата&quot; width=&quot;250&quot; height=&quot;250&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;Диагностическое рабочее место представляет собой тот же самый системный блок, из которого состоит непосредственно любой компьютер, но только не имеет корпуса, и располагается на столе, с открытым доступом к любой части материнской платы. При диагностике используются заведомо исправные комплектующие: процессоры, память, видеокарта и блок питания. Это обязательно, чтобы исключить вдруг неисправность аналогичных комплектующих на клиентском компьютере, и иметь возможность не ошибиться в выводах.&lt;/p&gt;
+&lt;p&gt;В качестве основных измерительных инструментов используются мультиметры, осциллограф, лабораторный блок питания, тепловизор, микроскоп, и всевозможные пост-карты, слот-тестеры, сокет-тестеры.&lt;/p&gt;
+&lt;h2&gt;Что проверяется&lt;/h2&gt;
+&lt;p&gt;Прежде чем чинить материнскую плату, нужно сначала понять - а что именно чинить, паять, менять. Именно для этого, как только материнская плата при поступлении в ремонт и ложится на диагностический стол - и проводится процедура диагностики. Основой для диагностики конечно же служит информация от самого клиента о заявленной неисправности, например:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Загнул ножки сокета при чистке&lt;/li&gt;
+&lt;li&gt;Компьютер перестал включаться после перепада напряжения в сети&lt;/li&gt;
+&lt;li&gt;Попала жидкость в район PCIe слотов&lt;/li&gt;
+&lt;li&gt;Вставили райзер не той стороной&lt;/li&gt;
+&lt;li&gt;И так далее.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Важно озвучить причину поломки&lt;/h2&gt;
+&lt;p&gt;Заявленная неисправность, озвученная клиентом - очень важная часть диагностического процесса. Так как мастер сразу понимает, куда смотреть и с чего начинать. Конечно же, не всегда клиент в состоянии объяснить что же именно произошло, и что могло послужить причиной поломки, но в любом случае мастер всегда будет при диагностике изучать не только заявленную область поломки, а состояние материнской платы в целом.&lt;/p&gt;
+&lt;p&gt;Основные этапы диагностики можно указать следующие:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Разборка материнской платы (снятие систем охлаждения, декоративных элементов) для облегчения доступа ко всем узлам материнской платы&lt;/li&gt;
+&lt;li&gt;Тщательный визуальный осмотр под микроскопом всей материнской платы, сокета, на наличие или отсутствие физических повреждений, повреждений жидкостью, сбитых или прогоревших элементов, следов вмешательства пользователя или другого мастера&lt;/li&gt;
+&lt;li&gt;замеры сопротивлений основных электрических узлов материнской платы для поиска элементов или узлов, вышедших из строя&lt;/li&gt;
+&lt;li&gt;Поиск пробитых или вышедших из строя элементов с использованием лабораторного блока питания&lt;/li&gt;
+&lt;li&gt;Замеры дежурных напряжений при подаче питания от блока, замер батарейки CMOS на ее пригодность.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Что ещё проверим&lt;/h2&gt;
+&lt;p&gt;Далее, если ничего не выявлено, все исследования уже проходят при включении материнской платы. При помощи пост-карты оценивается общее рабочее состояние платы, инициализация процессора, памяти, видеокарты. Все выявленные при этих этапах поломки и недочеты в работе - подлежат дальнейшему ремонту.&lt;/p&gt;
+&lt;p&gt;Некоторые неисправности, например, когда материнская плата не стартует, не включается, не инициализируется, приходится выявлять непосредственно путем ремонтных действии: замена какого-то элемента, прошивка и так далее. Далеко не все неисправности можно определить четко и однозначно только используя измерения. Например - нельзя понять о слетевшей прошивке BIOS, если материнская плата не стартует, без его прошивки на программаторе и последующем диагностическом включении.&lt;/p&gt;
+&lt;p&gt;По результатам диагностики происходит согласование с клиентом дальнейших работ, стоимости ремонта, сроков. Но зачастую, еще до диагностики с клиентом оговариваются некие рамки предстоящих работ и цен, и ремонт может быть сразу после диагностики без дополнительных согласований, если все в этих рамках и остается. В случае непредвиденных результатов диагностики ремонтные работы осуществляются только после согласования с клиентом.&lt;/p&gt;
+&lt;h2&gt;Наша аппаратура для ремонта и диагностики&lt;/h2&gt;
+&lt;p&gt;{gallery}apparat{/gallery}&lt;/p&gt;
+&lt;h2&gt;Есть вопросы?&lt;/h2&gt;
+&lt;p&gt;{loadmodule mod_qf3,mod_qf3}&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2&gt;Ориентировочные цены на услуги ремонта&lt;/h2&gt;
+&lt;div class=&quot;bs-docs-example&quot;&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th class=&quot;td-center&quot;&gt;Наименование&lt;/th&gt;
+&lt;th class=&quot;td-center&quot;&gt;Цены / ₽&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Диагностика (если больше ничего не делаем или ремонт бессмысленный)&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;1 000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Диагностика (если ремонтируем):&lt;/td&gt;
+&lt;td class=&quot;td-center&quot;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;{loadmodule mod_custom,Заказать кнопка}&lt;/p&gt;
+&lt;h1&gt;Диагностика материнских плат&lt;/h1&gt;
+&lt;div class=&quot;zoom-float&quot;&gt;&lt;img class=&quot;zoom&quot; src=&quot;https://www.gitaruga.ru/images/macs.png&quot; alt=&quot;Материнская плата&quot; width=&quot;250&quot; height=&quot;250&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;Диагностическое рабочее место представляет собой тот же самый системный блок, из которого состоит непосредственно любой компьютер, но только не имеет корпуса, и располагается на столе, с открытым доступом к любой части материнской платы. При диагностике используются заведомо исправные комплектующие: процессоры, память, видеокарта и блок питания. Это обязательно, чтобы исключить вдруг неисправность аналогичных комплектующих на клиентском компьютере, и иметь возможность не ошибиться в выводах.&lt;/p&gt;
+&lt;p&gt;В качестве основных измерительных инструментов используются мультиметры, осциллограф, лабораторный блок питания, тепловизор, микроскоп, и всевозможные пост-карты, слот-тестеры, сокет-тестеры.&lt;/p&gt;
+&lt;h2&gt;Что проверяется&lt;/h2&gt;
+&lt;p&gt;Прежде чем чинить материнскую плату, нужно сначала понять - а что именно чинить, паять, менять. Именно для этого, как только материнская плата при поступлении в ремонт и ложится на диагностический стол - и проводится процедура диагностики. Основой для диагностики конечно же служит информация от самого клиента о заявленной неисправности, например:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Загнул ножки сокета при чистке&lt;/li&gt;
+&lt;li&gt;Компьютер перестал включаться после перепада напряжения в сети&lt;/li&gt;
+&lt;li&gt;Попала жидкость в район PCIe слотов&lt;/li&gt;
+&lt;li&gt;Вставили райзер не той стороной&lt;/li&gt;
+&lt;li&gt;И так далее.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Важно озвучить причину поломки&lt;/h2&gt;
+&lt;p&gt;Заявленная неисправность, озвученная клиентом - очень важная часть диагностического процесса. Так как мастер сразу понимает, куда смотреть и с чего начинать. Конечно же, не всегда клиент в состоянии объяснить что же именно произошло, и что могло послужить причиной поломки, но в любом случае мастер всегда будет при диагностике изучать не только заявленную область поломки, а состояние материнской платы в целом.&lt;/p&gt;
+&lt;p&gt;Основные этапы диагностики можно указать следующие:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Разборка материнской платы (снятие систем охлаждения, декоративных элементов) для облегчения доступа ко всем узлам материнской платы&lt;/li&gt;
+&lt;li&gt;Тщательный визуальный осмотр под микроскопом всей материнской платы, сокета, на наличие или отсутствие физических повреждений, повреждений жидкостью, сбитых или прогоревших элементов, следов вмешательства пользователя или другого мастера&lt;/li&gt;
+&lt;li&gt;замеры сопротивлений основных электрических узлов материнской платы для поиска элементов или узлов, вышедших из строя&lt;/li&gt;
+&lt;li&gt;Поиск пробитых или вышедших из строя элементов с использованием лабораторного блока питания&lt;/li&gt;
+&lt;li&gt;Замеры дежурных напряжений при подаче питания от блока, замер батарейки CMOS на ее пригодность.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Что ещё проверим&lt;/h2&gt;
+&lt;p&gt;Далее, если ничего не выявлено, все исследования уже проходят при включении материнской платы. При помощи пост-карты оценивается общее рабочее состояние платы, инициализация процессора, памяти, видеокарты. Все выявленные при этих этапах поломки и недочеты в работе - подлежат дальнейшему ремонту.&lt;/p&gt;
+&lt;p&gt;Некоторые неисправности, например, когда материнская плата не стартует, не включается, не инициализируется, приходится выявлять непосредственно путем ремонтных действии: замена какого-то элемента, прошивка и так далее. Далеко не все неисправности можно определить четко и однозначно только используя измерения. Например - нельзя понять о слетевшей прошивке BIOS, если материнская плата не стартует, без его прошивки на программаторе и последующем диагностическом включении.&lt;/p&gt;
+&lt;p&gt;По результатам диагностики происходит согласование с клиентом дальнейших работ, стоимости ремонта, сроков. Но зачастую, еще до диагностики с клиентом оговариваются некие рамки предстоящих работ и цен, и ремонт может быть сразу после диагностики без дополнительных согласований, если все в этих рамках и остается. В случае непредвиденных результатов диагностики ремонтные работы осуществляются только после согласования с клиентом.&lt;/p&gt;
+&lt;h2&gt;Наша аппаратура для ремонта и диагностики&lt;/h2&gt;
+&lt;p&gt;{gallery}apparat{/gallery}&lt;/p&gt;
+&lt;h2&gt;Есть вопросы?&lt;/h2&gt;
+&lt;p&gt;{loadmodule mod_qf3,mod_qf3}&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Избранные" />
+		<category term="Услуги" />
+	</entry>
+</feed>
